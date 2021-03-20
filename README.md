@@ -3,7 +3,7 @@
 
 I am a student of Analysis and system development 💻📘
 
-<h1>oi</h1>
+
 
 📚Skills: 
 For now I don't feel confident putting it on, because I've been studying html and css until I feel safe.
