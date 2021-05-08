@@ -27,5 +27,6 @@ Em breve irei atualizar este readme, espero que gostem dos meus projetos iniciai
 
 💌 Redes sociais: <p align="center">
 
+<a href="https://www.linkedin.com/in/nathan-brillantino-0312701b4/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
  
