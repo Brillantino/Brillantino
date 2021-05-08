@@ -6,7 +6,7 @@ I am a student of Analysis and system development 💻📘
 
 
 📚Skills: 
-For now I don't feel confident putting it on, because I've been studying html and css until I feel safe.
+For now I don't feel confident putting it on, because I've been studying HTML,CSS and JAVASCRIPT  until I feel safe.
 
 Soon I will update this readme, I hope you like my initial projects kkk
 
@@ -20,7 +20,7 @@ Sou estudante de Análise e desenvolvimento de sistemas 💻📘
 
 
 📚Habilidades:
-Por enquanto, não me sinto confiante em colocar algo aqui, porque tenho estudado html e css até me sentir seguro nessas linguagens.
+Por enquanto, não me sinto confiante em colocar algo aqui, porque tenho estudado HTML,CSS e JAVASCRIPT até me sentir seguro nessas linguagens.
 
 
 Em breve irei atualizar este readme, espero que gostem dos meus projetos iniciais kkk
