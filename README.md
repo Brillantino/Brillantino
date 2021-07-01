@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**Brillantino/Brillantino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e desenvolvimento de sistemas 💻📘
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚Habilidades:
+Por enquanto, não me sinto confiante em colocar algo aqui, porque tenho estudado HTML,CSS e JAVASCRIPT até me sentir seguro nessas linguagens.
+
+
+Em breve irei atualizar este readme, espero que gostem dos meus projetos iniciais kkk
+
+💌 Redes sociais: <p align="center">
+
+<a href="https://www.linkedin.com/in/nathan-brillantino-0312701b4/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
